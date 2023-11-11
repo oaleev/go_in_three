@@ -11,8 +11,8 @@ const location = "Remote"
 var name string
 
 func main() {
-	name = "Johnny"
-	from := `Haiti`
+	name = "Peter"
+	from := `Parker`
 	var n int = 2
 
 	var proverb = "Undefined"
